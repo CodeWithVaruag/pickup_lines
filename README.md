@@ -6,7 +6,7 @@ A fun and engaging app to generate pickup lines across various categories. Downl
 
 You can download the latest release APK directly from the following link:
 
-[Download APK](https://github.com/CodeWithVaruag/pickup_lines/releases/latest/download/app-release.apk)
+[Download APK](https://drive.google.com/drive/folders/1CK3CqVWya_NxteB-ujUbJi7cFRVTxkXn?usp=drive_link)
 
 ## Features
 
