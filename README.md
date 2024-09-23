@@ -77,10 +77,24 @@ bash
 
 flutter build apk --release
 
-The APK can be found in the following directory:
+You can find the APK in this directory:
 
 arduino
 
+build/app/outputs/flutter-apk/app-release.apk
+
+Download the Release APK
+
+You can download the release APK directly from this link: Download APK
+Contributing
+
+Contributions are welcome! Feel free to submit a pull request or report any issues you encounter.
+License
+
+This project is licensed under the MIT License. Check out the LICENSE file for more details.
+Acknowledgements
+
+Thanks to the Flutter community for their ongoing support and resources, and a special shoutout to the various pickup line collections that inspired this app!
 build/app/outputs/flutter-apk/app-release.apk
 
 Download the Release APK
