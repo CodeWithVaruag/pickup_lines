@@ -61,28 +61,14 @@ bash
 
     flutter pub get
 
-Running the App
+###Running the App
 
-To run the app in debug mode, use the following command:
-
-bash
-
-flutter run
-
+To run the app in debug mode, use the following command: flutter run
 Building for Release
 
-To generate a release APK, run:
+To generate a release APK, run: flutter build apk --release
 
-bash
-
-flutter build apk --release
-
-You can find the APK in this directory:
-
-arduino
-
-build/app/outputs/flutter-apk/app-release.apk
-
+You can find the APK in this directory: build/app/outputs/flutter-apk/app-release.apk
 Download the Release APK
 
 You can download the release APK directly from this link: Download APK
@@ -95,21 +81,4 @@ This project is licensed under the MIT License. Check out the LICENSE file for m
 Acknowledgements
 
 Thanks to the Flutter community for their ongoing support and resources, and a special shoutout to the various pickup line collections that inspired this app!
-build/app/outputs/flutter-apk/app-release.apk
-
-Download the Release APK
-
-You can download the release APK directly from the following link:
-
-Download APK
-Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or report any issues.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-Acknowledgements
-
-    Thanks to the Flutter community for their ongoing support and resources.
-    Inspired by various pickup line collections.
 
